@@ -1,0 +1,65 @@
+
+header {
+  text-align: center;
+  background-color: #000000;
+  margin-top: -22px;
+  padding: 0.3px;
+  padding-top: 8px;
+  padding-bottom: 18px;
+}
+
+.playr {
+  margin-top: -2030px;
+  margin-left: 363px;
+  margin-right: 250px;
+}
+.songName {
+  margin-left: 196px;
+  width: 128px;
+  margin-top: -91px;
+  position: absolute;
+  font-size: 11px;
+}
+body{
+  background-color: #ffffff;
+}
+.imgSong {
+  width: 184px;
+  height: 93px;
+  margin: 3px;
+}
+
+.title{
+color: aliceblue;
+}
+
+
+input[type="text" i] {
+  padding: 2px 9px;
+  width: 392px;
+  height: 19px;
+  border-radius: 13px;
+  margin: 3px;
+}
+
+.like {
+  margin-top: 72px;
+  background-color: #ffffff;
+  border: none;
+  position: absolute;
+  margin-left: 189px;
+}
+
+.buttonsearch{
+  background-color: #000000;
+}
+.songelement.style {
+  margin-right: 1022px;
+}
+.likit{
+  width: 184px;
+  height: 93px;
+  margin: 3px;
+  margin-left: 20px;
+
+}
